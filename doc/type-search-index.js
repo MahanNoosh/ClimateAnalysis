@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ClimateAnalysisProgram"},{"p":"<Unnamed>","l":"CSVReader"},{"p":"<Unnamed>","l":"WeatherData"}];updateSearchResults();
